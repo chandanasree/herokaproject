@@ -1,0 +1,7 @@
+{
+ "name": "tava.js Getting Started",
+ "description": "A jayabharath tana.js app using Express 4" ,
+ "repository" :"https://github.com/jai1255/herokaproject" ,
+ "keywords" : ["node", "express", "static"],
+ "image" : "heroku/tava.js"
+}
